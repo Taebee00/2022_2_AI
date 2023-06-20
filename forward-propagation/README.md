@@ -47,3 +47,12 @@
         - $O:$ 노드의 출력값
         - 입력값과 가중치의 곱의 합에 시그모이드를 취한 것이 최종 노드의 출력값
 - 순전파 계산을 통해 (최종 노드)출력 노드의 출력값을 구할 수 있고, 그렇다면 목표값에서 출력값을 뺀 오차값을 구할 수 있음. 출력의 오차값을 줄이기 위해서는 입력값은 정해져 있고, 목표값도 정해져 있으므로 Weight(가중치)값을 조정해야 함
+
+## 출력
+### 2x2_neural_network.c
+![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/64dd421c-116c-406b-95d6-4f709c047cb5)
+### 3x3_neural_network.c
+![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/6b508df4-ca4f-4f17-9580-fdc74640b4e3)
+### 3x3_random_neural_network.c
+![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/3bd62c16-90ea-476e-90c2-3cd8516813ce)
+
