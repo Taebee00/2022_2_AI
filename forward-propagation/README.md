@@ -1,4 +1,4 @@
-### 1. 순전파 계산
+### 순전파 계산
 
 ![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/72fbb02f-b694-43ac-b270-4699b470e9b0)
 
