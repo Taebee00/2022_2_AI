@@ -50,9 +50,11 @@
 
 ## 출력
 ### 2x2_neural_network.c
-![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/64dd421c-116c-406b-95d6-4f709c047cb5)
+![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/7c898a26-19e6-4f68-8e05-cf158182eaec)
+
 ### 3x3_neural_network.c
-![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/6b508df4-ca4f-4f17-9580-fdc74640b4e3)
+![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/eb808749-b18c-4e81-9354-83f19c84962f)
+
 ### 3x3_random_neural_network.c
 ![image](https://github.com/Taebee00/2022_2_AI/assets/104549849/3bd62c16-90ea-476e-90c2-3cd8516813ce)
 
