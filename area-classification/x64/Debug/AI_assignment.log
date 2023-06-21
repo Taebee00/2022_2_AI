@@ -1,0 +1,51 @@
+﻿  source.c
+C:\Users\taebe\source\repos\AI_assignment\source.c(85,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(106,52): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][5]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(106,43): warning C4024: 'rand_weight': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(107,55): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [5][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(107,46): warning C4024: 'rand_weight': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(108,53): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(108,44): warning C4024: 'rand_weight': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(118,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(119,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(120,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(127,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(128,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(129,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(136,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(137,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(138,28): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(171,79): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][5]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(171,70): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(172,82): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [5][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(172,73): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(173,80): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(173,71): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(182,70): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(182,61): warning C4024: 'backward': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(183,72): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [5][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(183,63): warning C4024: 'backward': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(190,98): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(199,98): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(208,98): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(214,70): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(225,84): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][5]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(225,75): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(226,82): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [5][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(226,73): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(227,80): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(227,71): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(282,83): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][5]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(282,74): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(283,81): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [5][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(283,72): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(284,79): warning C4047: '함수': 'float *'의 간접 참조 수준이 'float [3][3]'과(와) 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(284,70): warning C4024: 'forward': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(291,64): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(148,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(149,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(150,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(154,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(155,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\taebe\source\repos\AI_assignment\source.c(156,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  AI_assignment.vcxproj -> C:\Users\taebe\source\repos\AI_assignment\x64\Debug\AI_assignment.exe
