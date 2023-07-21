@@ -3,7 +3,8 @@
 
 |디렉토리|설명|링크|
 |---|---|---|
-|area-classification|각각 색깔이 다른 3개의 영역을 학습시키고, 좌표를 입력받아 학습시킨 모델을 통해 좌표의 색깔을 추론하는 인공신경망 구성 프로젝트|https://github.com/Taebee00/2022_2_AI/tree/main/area-classification|foward-propagation|신경망의 순전파 계산을 행렬곱으로 구현한 과제|https://github.com/Taebee00/2022_2_AI/tree/main/forward-propagation|
+|area-classification|각각 색깔이 다른 3개의 영역을 학습시키고, 좌표를 입력받아 학습시킨 모델을 통해 좌표의 색깔을 추론하는 인공신경망 구성 프로젝트|https://github.com/Taebee00/2022_2_AI/tree/main/area-classification|
+foward-propagation|신경망의 순전파 계산을 행렬곱으로 구현한 과제|https://github.com/Taebee00/2022_2_AI/tree/main/forward-propagation|
 > 각 디렉토리의 **README.md** 파일 참고
 
 ### 1. 순전파
